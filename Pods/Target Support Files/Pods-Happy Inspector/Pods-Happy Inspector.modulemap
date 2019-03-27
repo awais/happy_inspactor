@@ -1,0 +1,6 @@
+framework module Pods_Happy_Inspector {
+  umbrella header "Pods-Happy Inspector-umbrella.h"
+
+  export *
+  module * { export * }
+}
